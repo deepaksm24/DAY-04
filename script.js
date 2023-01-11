@@ -1,5 +1,5 @@
 // DAY - 04 - TASK
-// Quuestion 1 To compare two json have the same properties without order in javascript.
+// Question 1 To compare two json have the same properties without order in javascript.
 
 
 let obj1 = {name:"Person 1",age:5};
@@ -28,9 +28,9 @@ if(check == 1)
     console.log("The Objects are equal");
 
 }else{
-    console.log("The Objects are not equal");
+    console.log(" The Objects are not equal");
 }
-// Queation 2 and 3 
+// Question   2 and 3 
 
 var req = new XMLHttpRequest();
 req.open("GET","https://restcountries.com/v3.1/all");
