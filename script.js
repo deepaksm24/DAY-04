@@ -1,5 +1,5 @@
 // DAY - 04 - TASK
-// Question 1 To compare two json have the same properties without order in javascript.
+// Question 1 to compare two json have the same properties without order in javascript.
 
 
 let obj1 = {name:"Person 1",age:5};
